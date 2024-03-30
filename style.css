@@ -1,0 +1,12 @@
+.grid{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: blue; */
+}
+.grid div{
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+}
